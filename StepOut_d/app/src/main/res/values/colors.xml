@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="textcolorWhite">#FFFFFF</color>
+    <color name="login_singUp_bg">#334856</color>
+    <color name="signUp_button">#FFFFFF</color>
+    <color name="textcolorBlack">#000000</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="text_hint_color">#87BCBF</color>
+    <color name="signup1_bg">#87BCBF</color>
+    <color name="signup2_bg">#D97D54</color>
+</resources>

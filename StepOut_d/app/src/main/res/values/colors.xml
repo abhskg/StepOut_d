@@ -11,4 +11,6 @@
     <color name="text_hint_color">#87BCBF</color>
     <color name="signup1_bg">#87BCBF</color>
     <color name="signup2_bg">#D97D54</color>
+    <color name="home_bg">#F0F3F4</color>
+    <color name="app_header_color">#FFFFFF</color>
 </resources>

@@ -18,10 +18,16 @@
     <string name="confirm_password">Confirm Password</string>
     <string name="next_btn_text">NEXT</string>
     <string name="signup2_text1">Add your profile picture.</string>
-    <string name="add_fav_sport">Add Your Favourite Sport</string>
+    <string name="add_fav_sport">Add Your \nFavourite Sport</string>
     <string name="to_your_personalized_profile">To Your Personalized Profile</string>
     <string name="done">DONE</string>
     <string name="thanks_nyou_are_ready_to_go">Thanks! \nYou are ready to go.</string>
     <string name="welcome_user">Welcome User</string>
     <string name="submit_btn_text">Go Ahead and Explore</string>
+    <string name="overlay_options_home">Home</string>
+    <string name="overlay_options_explore">Explore</string>
+    <string name="overlay_options_profile">Profile</string>
+    <string name="overlay_options_league">League</string>
+    <string name="overlay_options_tournament">Tournament</string>
+    <string name="overlay_options_settings">Settings</string>
 </resources>

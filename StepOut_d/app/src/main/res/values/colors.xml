@@ -13,4 +13,6 @@
     <color name="signup2_bg">#D97D54</color>
     <color name="home_bg">#F0F3F4</color>
     <color name="app_header_color">#FFFFFF</color>
+    <color name="overlay_bg_color">#F2D2C0</color>
+    <color name="overlay_drawer_text_color">#222326</color>
 </resources>

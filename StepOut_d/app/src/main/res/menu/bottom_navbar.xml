@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/bnav_1"
+        android:visible="true"
+        android:title="HOME"
+        android:icon="@mipmap/icn_home_active"
+        />
+
+    <item android:id="@+id/bnav_2"
+        android:visible="true"
+        android:title="HOT"
+        />
+
+    <item android:id="@+id/bnav_3"
+        android:visible="true"
+        android:title="CREATE EVENT"
+        />
+
+    <item android:id="@+id/bnav_4"
+        android:visible="true"
+        android:title="SEARCH"
+        />
+
+    <item android:id="@+id/bnav_5"
+        android:visible="true"
+        android:title="BOOKMARKS"
+        />
+</menu>
